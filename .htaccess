@@ -1,0 +1,4 @@
+# Temporarily exclude BookOrGo from search engines.
+<IfModule mod_headers.c>
+  Header always set X-Robots-Tag "noindex, nofollow"
+</IfModule>

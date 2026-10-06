@@ -1,3 +1,3 @@
+# Crawling remains allowed so search engines can read noindex.
 User-agent: *
 Allow: /
-Sitemap: https://bookorgo.com/sitemap.xml
