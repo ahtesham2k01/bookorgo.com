@@ -2,3 +2,10 @@
 <IfModule mod_headers.c>
   Header always set X-Robots-Tag "noindex, nofollow"
 </IfModule>
+
+# Keep repository metadata and environment files private.
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteRule (^|/)\.git(/|$) - [F,L]
+  RewriteRule (^|/)\.env([^/]*)(/|$) - [F,L]
+</IfModule>

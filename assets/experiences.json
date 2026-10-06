@@ -1,0 +1,90 @@
+[
+  {
+    "slug": "burj-khalifa",
+    "title": "Burj Khalifa",
+    "category": "Attractions",
+    "location": "Downtown Dubai",
+    "summary": "Observation deck options and skyline views.",
+    "source": "https://www.burjkhalifa.ae/experiences/",
+    "image": "assets/guides/dubai-1.jpg",
+    "status": "Planning guide",
+    "booking_url": null
+  },
+  {
+    "slug": "desert-safari",
+    "title": "Dubai desert safari",
+    "category": "Adventure",
+    "location": "Dubai desert; pickup varies",
+    "summary": "Plan your desert outing, pickup and camp experience.",
+    "source": "https://www.visitdubai.com/places-to-visit/desert-safari-dubai",
+    "image": "assets/guides/desert-safari.svg",
+    "status": "Planning guide",
+    "booking_url": null
+  },
+  {
+    "slug": "marina-cruises",
+    "title": "Dubai Marina cruises",
+    "category": "On the water",
+    "location": "Dubai Marina",
+    "summary": "Choose sightseeing or dinner, with clear boarding details.",
+    "source": "https://experiences.visitdubai.com/tour-dubai-get-your-tickets",
+    "image": "assets/guides/marina-cruises.svg",
+    "status": "Planning guide",
+    "booking_url": null
+  },
+  {
+    "slug": "dubai-frame",
+    "title": "Dubai Frame",
+    "category": "Attractions",
+    "location": "Zabeel Park",
+    "summary": "Plan a visit to the panoramic sky deck.",
+    "source": "https://dubaiframe.ae/en/faq",
+    "image": "assets/guides/dubai-frame.svg",
+    "status": "Planning guide",
+    "booking_url": null
+  },
+  {
+    "slug": "aquaventure",
+    "title": "Aquaventure Waterpark",
+    "category": "Family",
+    "location": "Atlantis, The Palm",
+    "summary": "Prepare for slides, ride eligibility and a waterpark day.",
+    "source": "https://www.aquaventureworld.com/tickets",
+    "image": "assets/guides/aquaventure.svg",
+    "status": "Planning guide",
+    "booking_url": null
+  },
+  {
+    "slug": "old-dubai",
+    "title": "Old Dubai & Al Fahidi",
+    "category": "Culture",
+    "location": "Al Fahidi Historical Neighbourhood",
+    "summary": "Explore heritage lanes at a slower pace.",
+    "source": "https://www.visitdubai.com/en/places-to-visit/al-fahidi-historical-neighbourhood",
+    "image": "assets/guides/old-dubai.svg",
+    "status": "Planning guide",
+    "booking_url": null
+  },
+  {
+    "slug": "dubai-aquarium",
+    "title": "Dubai Aquarium & Underwater Zoo",
+    "category": "Family",
+    "location": "Dubai Mall",
+    "summary": "Understand aquarium admission and optional encounters.",
+    "source": "https://www.thedubaiaquarium.com/",
+    "image": "assets/guides/dubai-aquarium.svg",
+    "status": "Planning guide",
+    "booking_url": null
+  },
+  {
+    "slug": "museum-of-the-future",
+    "title": "Museum of the Future",
+    "category": "Attractions",
+    "location": "Sheikh Zayed Road",
+    "summary": "Exhibitions temporarily unavailable; check the official update.",
+    "source": "https://museumofthefuture.ae/en",
+    "image": "assets/guides/museum-of-the-future.svg",
+    "status": "Temporarily unavailable",
+    "booking_url": null
+  }
+]
