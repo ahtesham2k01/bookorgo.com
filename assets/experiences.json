@@ -17,9 +17,10 @@
     "location": "Dubai desert; pickup varies",
     "summary": "Plan your desert outing, pickup and camp experience.",
     "source": "https://www.visitdubai.com/places-to-visit/desert-safari-dubai",
-    "image": "assets/guides/desert-safari.svg",
+    "image": "assets/guides/safari.jpg",
     "status": "Planning guide",
-    "booking_url": null
+    "booking_url": null,
+    "image_caption": "Dubai desert safari. Historical destination photograph, not a specific operator’s package."
   },
   {
     "slug": "marina-cruises",
@@ -28,9 +29,10 @@
     "location": "Dubai Marina",
     "summary": "Choose sightseeing or dinner, with clear boarding details.",
     "source": "https://experiences.visitdubai.com/tour-dubai-get-your-tickets",
-    "image": "assets/guides/marina-cruises.svg",
+    "image": "assets/guides/marina.jpg",
     "status": "Planning guide",
-    "booking_url": null
+    "booking_url": null,
+    "image_caption": "The Beach and Dubai Marina skyline. Destination photograph, not a specific cruise or boat."
   },
   {
     "slug": "dubai-frame",
@@ -50,9 +52,10 @@
     "location": "Atlantis, The Palm",
     "summary": "Prepare for slides, ride eligibility and a waterpark day.",
     "source": "https://www.aquaventureworld.com/tickets",
-    "image": "assets/guides/aquaventure.svg",
+    "image": "assets/guides/aquaventure.jpg",
     "status": "Planning guide",
-    "booking_url": null
+    "booking_url": null,
+    "image_caption": "Aquaventure grounds photographed in 2010. Historical destination photograph; current rides and facilities may differ."
   },
   {
     "slug": "old-dubai",
@@ -61,9 +64,10 @@
     "location": "Al Fahidi Historical Neighbourhood",
     "summary": "Explore heritage lanes at a slower pace.",
     "source": "https://www.visitdubai.com/en/places-to-visit/al-fahidi-historical-neighbourhood",
-    "image": "assets/guides/old-dubai.svg",
+    "image": "assets/guides/old-dubai.jpg",
     "status": "Planning guide",
-    "booking_url": null
+    "booking_url": null,
+    "image_caption": "Al Fahidi during the 2018 Sikka Art Fair. Historical destination photograph; decorations and visitor conditions can change."
   },
   {
     "slug": "dubai-aquarium",
@@ -72,9 +76,10 @@
     "location": "Dubai Mall",
     "summary": "Understand aquarium admission and optional encounters.",
     "source": "https://www.thedubaiaquarium.com/",
-    "image": "assets/guides/dubai-aquarium.svg",
+    "image": "assets/guides/aquarium.jpg",
     "status": "Planning guide",
-    "booking_url": null
+    "booking_url": null,
+    "image_caption": "Dubai Mall Aquarium photographed in 2016. Destination photograph, not confirmation of a particular ticket inclusion."
   },
   {
     "slug": "museum-of-the-future",
