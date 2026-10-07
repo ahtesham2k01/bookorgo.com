@@ -17,7 +17,7 @@
     "location": "Dubai desert; pickup varies",
     "summary": "Plan your desert outing, pickup and camp experience.",
     "source": "https://www.visitdubai.com/places-to-visit/desert-safari-dubai",
-    "image": "assets/guides/safari.jpg",
+    "image": "assets/guides/safari-feature.jpg",
     "status": "Planning guide",
     "booking_url": null,
     "image_caption": "Dubai desert safari. Historical destination photograph, not a specific operator’s package."
@@ -41,9 +41,10 @@
     "location": "Zabeel Park",
     "summary": "Plan a visit to the panoramic sky deck.",
     "source": "https://dubaiframe.ae/en/faq",
-    "image": "assets/guides/dubai-frame.svg",
+    "image": "assets/guides/frame-photo.jpg",
     "status": "Planning guide",
-    "booking_url": null
+    "booking_url": null,
+    "image_caption": "Dubai Frame seen from Burj Khalifa in 2019. Destination photograph."
   },
   {
     "slug": "aquaventure",
